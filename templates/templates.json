@@ -1,0 +1,24 @@
+{
+  "Templates": [
+    {
+      "Name": "new on repository",
+      "Type": null
+    },
+    {
+      "Name": "template_b.tpl",
+      "Type": null
+    },
+    {
+      "Name": "template_a.tpl",
+      "Type": null
+    },
+    {
+      "Name": "new local",
+      "Type": "program"
+    },
+    {
+      "Name": "newlocal2",
+      "Type": "program"
+    }
+  ]
+}
